@@ -1,0 +1,35 @@
+#title{
+    font-family:Arial;
+    color:blueviolet; 
+
+}
+#name{
+  color: blueviolet; 
+  font-style: italic;
+}
+
+.page-title{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+a:link{
+   color: goldenrod;
+   font-weight:normal;
+    font-style: italic;
+}
+
+
+a:visited{
+    color: blue;
+   font-weight:normal;
+    font-style: normal;
+}
+
+.card-title{
+   color:rebeccapurple;  
+}
+
+
+
+ 
